@@ -16,4 +16,4 @@ export default defineConfig({
   build: {
     outDir: "dist", // Папка, куда Vite положит готовый сайт
   },
-});
+})
